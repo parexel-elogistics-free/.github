@@ -17,12 +17,12 @@ I want ...
 
 ---
 
-- [ ] PM: Update Requirements
-- [ ] PM: Review Requirements
-- [ ] DEV: Write Code
-- [ ] DEV: Unit Test
-- [ ] DEV: Code\Design Review
-- [ ] TEST: Create Mind Map and Group Review
-- [ ] TEST: Exploratory Testing
-- [ ] TEST: Write CT
-- [ ] TEST: Review CT
+- [ ] PM: Update Requirements @parexel-elogistics-free/business
+- [ ] PM: Review Requirements @parexel-elogistics-free/business
+- [ ] DEV: Write Code @parexel-elogistics-free/development
+- [ ] DEV: Unit Test @parexel-elogistics-free/development
+- [ ] DEV: Code\Design Review @parexel-elogistics-free/development
+- [ ] TEST: Create Mind Map and Group Review @parexel-elogistics-free/validation
+- [ ] TEST: Exploratory Testing @parexel-elogistics-free/validation
+- [ ] TEST: Write CT @parexel-elogistics-free/validation
+- [ ] TEST: Review CT @parexel-elogistics-free/validation
