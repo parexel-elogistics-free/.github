@@ -23,7 +23,7 @@ assignees: ''
 - [ ] PM: Review Requirements @parexel-elogistics-free/business
 - [ ] DEV: Write Code @parexel-elogistics-free/development
 - [ ] DEV: Unit Test @parexel-elogistics-free/development
-- [ ] DEV: Code\Design Review @parexel-elogistics-free/development
+- [ ] DEV: Code and Design Review @parexel-elogistics-free/development
 - [ ] TEST: Create Mind Map and Group Review @parexel-elogistics-free/validation
 - [ ] TEST: Exploratory Testing @parexel-elogistics-free/validation
 - [ ] TEST: Write CT @parexel-elogistics-free/validation
