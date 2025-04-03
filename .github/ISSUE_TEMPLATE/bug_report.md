@@ -40,5 +40,5 @@ Add any other context about the problem here.
 ---
 
 - [ ] DEV: Write Code @parexel-elogistics-free/development
-- [ ] DEV: Code\Design Review @parexel-elogistics-free/development
+- [ ] DEV: Code and Design Review @parexel-elogistics-free/development
 - [ ] TEST: Exploratory Testing @parexel-elogistics-free/validation
