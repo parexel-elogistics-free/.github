@@ -28,3 +28,5 @@ assignees: ''
 - [ ] TEST: Exploratory Testing @parexel-elogistics-free/validation
 - [ ] TEST: Write CT @parexel-elogistics-free/validation
 - [ ] TEST: Review CT @parexel-elogistics-free/validation
+- [ ] TEST: Write Test Automation @parexel-elogistics-free/validation
+- [ ] TEST: Review Test Automation @parexel-elogistics-free/validation
