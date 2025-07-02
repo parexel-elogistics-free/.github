@@ -19,14 +19,14 @@ assignees: ''
 
 ---
 
-- [ ] PM: Update Requirements @parexel-elogistics-free/business
-- [ ] PM: Review Requirements @parexel-elogistics-free/business
-- [ ] DEV: Write Code @parexel-elogistics-free/development
-- [ ] DEV: Unit Test @parexel-elogistics-free/development
-- [ ] DEV: Code and Design Review @parexel-elogistics-free/development
-- [ ] TEST: Create Mind Map and Group Review @parexel-elogistics-free/validation
-- [ ] TEST: Exploratory Testing @parexel-elogistics-free/validation
-- [ ] TEST: Write CT @parexel-elogistics-free/validation
-- [ ] TEST: Review CT @parexel-elogistics-free/validation
-- [ ] TEST: Write Test Automation @parexel-elogistics-free/validation
-- [ ] TEST: Review Test Automation @parexel-elogistics-free/validation
+- [ ] PM: Update Requirements (business)
+- [ ] PM: Review Requirements (business)
+- [ ] DEV: Write Code (development)
+- [ ] DEV: Unit Test (development)
+- [ ] DEV: Code and Design Review (development)
+- [ ] TEST: Create Mind Map and Group Review (validation)
+- [ ] TEST: Exploratory Testing (validation)
+- [ ] TEST: Write CT (validation)
+- [ ] TEST: Review CT (validation)
+- [ ] TEST: Write Test Automation (validation)
+- [ ] TEST: Review Test Automation (validation)
